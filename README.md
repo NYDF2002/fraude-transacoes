@@ -1,5 +1,3 @@
-![Matriz de Confusão](notebooks/matriz_confusao_fraude.png)
-
 # 💳 Detecção de Fraudes em Transações Financeiras
 
 Este projeto simula um cenário de análise de transações financeiras para identificar padrões suspeitos com base em técnicas de ciência de dados.
